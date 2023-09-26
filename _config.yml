@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "default", "air", "aqua", "contrast", "da
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Edu Klein"
+title                    : "HSM"
 title_separator          : "-"
-subtitle                 : "Leadership, management, and software engineering"
-name                     : "Eduardo Klein"
-description              : "Edu Klein's thoughts about leadership, management, software development and random stuff"
+subtitle                 : "PhD. Data Scientist"
+name                     : "Hossam Boudraa"
+description              : "Hsm's thoughts about IA, Data Science, software development and random stuff"
 url                      : https://eduklein.com.br
 enforce_ssl              : https://eduklein.com.br
 baseurl                  : / # the subpath of your site, e.g. "/blog"
