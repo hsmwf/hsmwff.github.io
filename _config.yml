@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "default", "air", "aqua", "contrast", "da
 locale                   : "en-US"
 title                    : "HSM"
 title_separator          : "-"
-subtitle                 : "PhD. Data Scientist"
+subtitle                 : "Personal Website"
 name                     : "Hossam Boudraa"
 description              : "Hsm's thoughts about IA, Data Science, software development and random stuff"
 url                      : https://hsmwf.github.io
@@ -81,7 +81,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : eduardopklein
+  username               : hossambd
 facebook:
   username               :
   app_id                 :
@@ -107,11 +107,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Eduardo Klein"
+  name             : "Hossam Boudraa"
   avatar           : "/_personal/photos/2023-06-VTEX-256.png"
-  bio              : "Software Engineering Manager <nobr>@ VTEX</nobr>"
-  location         : "Porto Alegre, Brazil"
-  email            : contato@eduklein.com.br
+  bio              : "PhD. Data Scientist<nobr>@ TALEP</nobr>"
+  location         : "Marseille, France"
+  email            : hossam.boudraa@lis-lab.fr
   links:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
